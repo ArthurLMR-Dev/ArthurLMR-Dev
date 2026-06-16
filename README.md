@@ -12,10 +12,6 @@ Currently, I am building high-impact solutions at CI&T, focusing on microservice
 *   **Cloud & DevOps:** Docker, CI/CD, Playwright
 *   **Observability & AI:** SigNoz, Claude Code, Cursor, Local LLMs
 
-### 📈 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurLMR-Dev&show_icons=true&theme=radical&hide_border=true)
-
 ### 📫 Let's Connect!
 
 *   **LinkedIn:** [linkedin.com/in/arthur-larangeiras-mauricio-da-rocha](https://www.linkedin.com/in/arthur-larangeiras-mauricio-da-rocha/)
